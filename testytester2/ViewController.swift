@@ -13,7 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("hello")
     }
-
+    func dostuff(){
+        print("stuff done")
+    }
 
 }
 
